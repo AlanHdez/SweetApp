@@ -1,6 +1,6 @@
 {
-  "name": "sweetapp",
-  "app_id": "41f66b06",
+  "name": "firebase-imagepicker",
+  "app_id": "",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
